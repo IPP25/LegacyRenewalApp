@@ -8,6 +8,7 @@ dotnet restore
 dotnet build
 
 then dotnet run --project LegacyRenewalAppConsumer/LegacyRenewalAppConsumer.csproj 
+
 OUTPUT:
 
 Invoice INV-20260413-3-PRO saved for John Smith
